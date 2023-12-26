@@ -1,0 +1,26 @@
+*
+{
+    padding: 0%; margin: 0 auto;
+    
+}
+body
+{
+    background-color: aqua;
+}
+.block
+{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    margin: 10px auto;
+    display: inline-block;
+    
+
+}
+#topitems
+{
+    background-color: yellow;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: auto;
+}
